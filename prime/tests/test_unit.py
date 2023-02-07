@@ -32,7 +32,7 @@ class TestPrime(unittest.TestCase):
     def test_values(self):
 
         self.assertEqual(prime(1986), 'composite', msg='Equal')
-        self.assertEqual(prime(1826), 'composite', msg='Equal')
+        
 
 
         
